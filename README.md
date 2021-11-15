@@ -10,6 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - List
 
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any question or suggestion ? [Contact us](https://support.github.com/contact) ! Othmane, Quentin, Alice or Mahran will answer.
