@@ -1,8 +1,10 @@
 ## Welcome to UMA PhD students seminar page
 
-The PhD student seminar is a moment where students (PhD students, PostDocs, interns) can present their recent work or topics of intererst in front of the team. We . It takes place every three weeks at ENSTA. Next session will be on : **Friday 26 November 2021 at 2pm**.
+The PhD student seminar is a moment where students (PhD students, PostDocs, interns) can present their recent work or topics of intererst in front of the team. We . It takes place every three weeks at ENSTA. 
 
 This site is a collection of all the previous and upcoming PhD student seminars organized by the UMA team.
+Next session will be on : **Friday 26 November 2021 at 2pm**.
+
 
 ### UMA
 
