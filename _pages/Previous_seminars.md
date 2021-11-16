@@ -5,7 +5,6 @@ Here is a collection of abstracts and slides from all the previous seminars.
 # 2021
 
 ### November
-
 - November 5th - 14h (Salle 2320)
   
   Speaker :  Etienne PEILLON
@@ -38,15 +37,17 @@ Here is a collection of abstracts and slides from all the previous seminars.
   
   Download the slides [here](https://alnssr.github.io/PDF/Nassor_seminar.pdf).
   
-  ### August
-  - August 2nd - 14h (Online)
+ 
+### August
+- August 2nd - 14h (Online)
   
   Speaker : Pierre Amenoagbadji
   
   Title : "Ondes en milieux quasi-périodiques localement perturbés : le cas unidimensionnel dissipatif"
   
   
-  ### June
+
+### June
 - June 30th - 14h (Online)
   
   Speaker :  Othmane Jerhaoui
@@ -61,22 +62,35 @@ Here is a collection of abstracts and slides from all the previous seminars.
    Title : "Comparison between 3D and 1D approaches for the computation of electromagnetic wave"
    
   
-  ### May
-  
-  - May 21st  - 14h (Online)
+
+### May
+- May 21st  - 14h (Online)
     
     Speaker : Laura Bagur 
     
     Title : "Three-dimensional modeling of seismic and aseismic slip using Fast Boundary Element Methods"
     
     
-### April
 
-  - April 23th - 14h (Online)
+### April
+- April 23th - 14h (Online)
  
    Speaker : Mathieu Verhchère
    
    Title: "Tight linear relaxations for unconstrained polynomial optimization problems."
    
+  
+- April 2nd - 14h (Online)
+  
+   Speaker : Markus Wess
    
+   Title : "Frequency-Dependent Complex-Scaled Infinite Elements for Exterior Helmholtz Resonance Problems."
+   
+ 
+- April 2nd - 14h30 (Online)
+ 
+   Speaker : Damien Chicaud
+   
+   Title : "Analysis and simulation of time-harmonic Maxwell equations in anisotropic media."
+
  
