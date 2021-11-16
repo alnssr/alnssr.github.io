@@ -5,8 +5,8 @@ The PhD student seminar is a moment where students (PhD students, PostDocs, inte
 This site is a collection of all the previous and upcoming PhD student seminars organized by the UMA team.
 Next session will be on : **Friday 26th November 2021 at 2pm**.
 
-- [Previous seminars](_pages/Previous_seminars)
-- [Upcoming events](_pages/Upcoming_events)
+- [Previous seminars](_pages/Previous_seminars.md)
+- [Upcoming events](_pages/Upcoming_events.md)
 
 
 ### UMA
