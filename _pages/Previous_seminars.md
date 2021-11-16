@@ -38,5 +38,45 @@ Here is a collection of abstracts and slides from all the previous seminars.
   
   Download the slides [here](https://alnssr.github.io/PDF/Nassor_seminar.pdf).
   
+  ### August
+  - August 2nd - 14h (Online)
   
+  Speaker : Pierre Amenoagbadji
+  
+  Title : "Ondes en milieux quasi-périodiques localement perturbés : le cas unidimensionnel dissipatif"
+  
+  
+  ### June
+- June 30th - 14h (Online)
+  
+  Speaker :  Othmane Jerhaoui
+  
+  Title : "Optimal control problems on stratified space."
 
+
+- June 11th - 14h (Online)
+
+   Speaker :  Akram Beni Hamed
+   
+   Title : "Comparison between 3D and 1D approaches for the computation of electromagnetic wave"
+   
+  
+  ### May
+  
+  - May 21st  - 14h (Online)
+    
+    Speaker : Laura Bagur 
+    
+    Title : "Three-dimensional modeling of seismic and aseismic slip using Fast Boundary Element Methods"
+    
+    
+### April
+
+  - April 23th - 14h (Online)
+ 
+   Speaker : Mathieu Verhchère
+   
+   Title: "Tight linear relaxations for unconstrained polynomial optimization problems."
+   
+   
+ 
