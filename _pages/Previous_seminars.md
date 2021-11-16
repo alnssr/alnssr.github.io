@@ -12,7 +12,7 @@ Here is a collection of abstracts and slides from all the previous seminars.
   
   Title : "Limiting absorption principle and mixedvariational formulation for resonant Maxwell’sequations in cold magnetized plasma."
   
-  Abstract : [here]().
+  Abstract : [here](https://alnssr.github.io/PDF/AbstractEtienne0511.pdf).
   
   
 
@@ -36,7 +36,7 @@ Here is a collection of abstracts and slides from all the previous seminars.
   
   Abstract : "This talk concerns the fluid-structure interaction occurring during the impact of an underwater shock wave on a submerged structure. To simulate the phenomenon an iterative, global-in-time FEM-BEM coupling is studied. The present contribution highlights two possible formulations of this coupling: one based on Neumann transmission conditions at the interface between the fluid and solid domains, and the other based on Robin conditions. We will show the convergence of the Robin scheme and justifying the non-convergence of the Neumann scheme. We will also discuss other possible iterative FEM-BEM coupling method." 
   
-  Download the slides [here]().
+  Download the slides [here](https://alnssr.github.io/PDF/Nassor_seminar.pdf).
   
   
 
