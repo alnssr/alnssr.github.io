@@ -26,4 +26,4 @@ The research activities of the Applied Mathematics Unit of ENSTA Paris concern a
 ### Contact
 
 The actual organizers are : Othmane Jerhaoui, Alice Nassor and Quentin Goepfert.
-If you wish to give a talk, or have any request and suggestion, contact the organizers :  [[othmane.jerhaoui@ensta-paris.fr]](mailto:othmane.jerhaoui@ensta-paris.fr), [[alice.nassor@ensta-paris.fr]](mailto:alice.nassor@ensta-paris.fr) or [quentin.goepfert@ensta-paris.fr](mailto:quentin.goepfert@ensta-paris.fr).
+If you wish to give a talk, or have any request and suggestion, contact the organizers :  [othmane.jerhaoui@ensta-paris.fr](mailto:othmane.jerhaoui@ensta-paris.fr), [alice.nassor@ensta-paris.fr](mailto:alice.nassor@ensta-paris.fr) or [quentin.goepfert@ensta-paris.fr](mailto:quentin.goepfert@ensta-paris.fr).
