@@ -59,7 +59,7 @@ Here is a collection of abstracts and slides from all the previous seminars.
 
    Speaker :  Akram Beni Hamed
    
-   Title : "Comparison between 3D and 1D approaches for the computation of electromagnetic wave"
+   Title : "Comparison between 3D and 1D approaches for the computation of electromagnetic wave propagation in co-axial cables."
    
   
 
