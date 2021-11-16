@@ -14,8 +14,6 @@ Here is a collection of abstracts and slides from all the previous seminars.
   
   Abstract : [here]().
   
-  Download the slides [here]().
-  
   
 
 ### October
