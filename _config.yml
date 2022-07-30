@@ -33,5 +33,5 @@ linkedin_username: www.linkedin.com/in/alice-nassor # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 include: ["_pages", "_assets"]
