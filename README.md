@@ -34,3 +34,6 @@ FEM", talk at Waves (15th International Conference on Mathematical and Numerical
 
 ### Contact
 [alice.nassor@ensta-paris.fr](mailto:alice.nassor@ensta-paris.fr).
+
+POems (UMR 7231 CNRS-INRIA-ENSTA), UMA (Appl. Math. Dept.)
+ENSTA Paris, 828 Boulevard des Maréchaux, 91120 Palaiseau, FRANCE
