@@ -26,17 +26,21 @@ In coming conference :
 
 
 
-### Useful links
-
-- [UMA website](https://uma.ensta-paris.fr/)
-- [ENSTA Website](https://www.ensta-paris.fr/)
-- Polytechnique doctoral school : [IPP](https://www.ip-paris.fr/education/doctorat/ecole-doctorale-ip-paris)
-- [UMA PhD Student seminar](https://seminaruma.github.io/) :  If you wish to give a talk or to participate in the seminar, do not hesitate to contact me.
 
 
 
-### Contact
+
+### Contact and useful links
 [alice.nassor@ensta-paris.fr](mailto:alice.nassor@ensta-paris.fr).
 
 POems (UMR 7231 CNRS-INRIA-ENSTA), UMA (Appl. Math. Dept.)
 ENSTA Paris, 828 Boulevard des Maréchaux, 91120 Palaiseau, FRANCE
+
+
+Other links 
+
+- [UMA website](https://uma.ensta-paris.fr/)
+- [ENSTA Website](https://www.ensta-paris.fr/)
+- [Polytechnique doctoral school IPP](https://www.ip-paris.fr/education/doctorat/ecole-doctorale-ip-paris)
+- [UMA PhD Student seminar](https://seminaruma.github.io/) :  If you wish to give a talk or to participate in the seminar, do not hesitate to contact me.
+
