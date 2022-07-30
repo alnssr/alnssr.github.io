@@ -1,29 +1,36 @@
-## Welcome to UMA PhD students seminar page
+## Alice Nassor
 
-The PhD student seminar is a moment where students (PhD students, PostDocs, interns) can present their recent work or topics of intererst in front of the team. We regularly welcome students from other mathematics laboratories . It takes place every three weeks at ENSTA. 
-
-This site is a collection of all the previous and upcoming PhD student seminars organized by the UMA team.
-Next session will be on : **Friday 26th November 2021 at 2pm**.
-
-- [Previous seminars](_pages/Previous_seminars.md)
-- [Upcoming events](_pages/Upcoming_events.md)
+Welcome to my academic page !
 
 
-### UMA
+I'm a PhD Student in mechanics and numerical simulation at POEMS (UMA, Ensta Paris). I work under the direction of [Stéphanie Chaillat](https://perso.ensta-paris.fr/~chaillat/) and [Marc Bonnet](https://perso.ensta-paris.fr/~mbonnet/). I also collaborate with Bruno Leblé (Naval Group Research), Guillaume Barras (DGA Techniques Navales) and Océane Grosset (DGA Techniques Navales).
 
-The research activities of the Applied Mathematics Unit of ENSTA Paris concern a wide range of fields in Applied Mathematics: Partial Derivative Equations, Dynamical Systems, Optimal Control, Continuous and Discrete Optimization, Stochastic Analysis, Numerical Methods... These activities are grouped in two teams:
-- Optimisation, Control (OC)
-- Wave Propagation, Mathematical Study and Simulation (Poems)
+PhD topic : I am working on a time-domain iterative coupling between finite element (FEM) and boundary element methods (BEM). The goal is to apply this coupling to fluid-structure interaction problems for the naval industry, such as the action of a far-field underwater explosion on a submarine.
+
+
+
+### Communications
+- in the [UMA PhD Seminar](https://seminaruma.github.io/)
+- CJC-MA
+- CSMA
+- " " at ECCOMAS Congress 2022, Oslo, June 2022. 
+- Waves
+
+
+
+### Teaching
+- [IN101](https://ecampus.paris-saclay.fr/enrol/index.php?id=13880) - Algorithmique et programmation (S1 - 2021-22)
+
+
 
 ### Useful links
 
 - [UMA website](https://uma.ensta-paris.fr/)
 - [ENSTA Website](https://www.ensta-paris.fr/)
-- Doctoral schools : [EDMH](https://www.universite-paris-saclay.fr/ecoles-doctorales/mathematiques-hadamard-edmh) and [IPP](https://www.ip-paris.fr/education/doctorat/ecole-doctorale-ip-paris)
+- Polytechnique doctoral school : [IPP](https://www.ip-paris.fr/education/doctorat/ecole-doctorale-ip-paris)
+- [UMA PhD Student seminar](https://seminaruma.github.io/) :  If you wish to give a talk or to participate in the seminar, do not hesitate to contact me.
 
 
 
 ### Contact
-
-The actual organizers are : Othmane Jerhaoui, Alice Nassor, Quentin Goepfert and Mahran Rihani.
-If you wish to give a talk, or have any request and suggestion, contact the organizers :  [othmane.jerhaoui@ensta-paris.fr](mailto:othmane.jerhaoui@ensta-paris.fr), [alice.nassor@ensta-paris.fr](mailto:alice.nassor@ensta-paris.fr) or [quentin.goepfert@ensta-paris.fr](mailto:quentin.goepfert@ensta-paris.fr).
+[alice.nassor@ensta-paris.fr](mailto:alice.nassor@ensta-paris.fr).
