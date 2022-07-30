@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Alice Nassor # the website title (if blank, full name will be used instead)
 first_name: Alice
 middle_name: 
 last_name: Nassor
@@ -21,6 +21,16 @@ baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
+
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+
+twitter_username: AliceNs_ # your Twitter handle
+linkedin_username: www.linkedin.com/in/alice-nassor # your LinkedIn user name
+scholar_userid: # your Google Scholar ID
 
 
 theme: jekyll-theme-minimal
