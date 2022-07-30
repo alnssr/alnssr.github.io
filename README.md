@@ -11,7 +11,7 @@ PhD topic : I am working on a time-domain iterative coupling between finite elem
 - ["Une méthode itérative convergente pour le couplage FEMBEM élastodynamique-acoustique global en temps"](https://cjc-ma2021.github.io/resumes/resume-alice-nassor.pdf), talk at the Congrès des Jeunes Chercheurs en Mathématiques Appliquées, October 2021
 - ["Convergence d'un couplage élastique-acoustique FEM-BEM itératif, global en temps"](https://hal.archives-ouvertes.fr/hal-03717599/), talk at the at the CSMA 2022 (15ème colloque nationale en calcul des structures), May 2022. 
 - ["Transient, global-in-time, convergent iterative coupling of acoustic BEM and elastic FEM"](https://github.com/alnssr/alnssr.github.io/raw/main/PDF/Abstract_ECCOMAS_2022.pdf), talk at ECCOMAS Congress 2022, Oslo, June 2022. 
-- "Transient, global-in-time, convergent iterative coupling of acoustic BEM and elastic FEM", talk at Waves (15th International Conference on Mathematical and Numerical Aspects of Wave Propagation), Palaiseau, July 2022 ([Slides](https://github.com/alnssr/alnssr.github.io/raw/main/PDF/Presentation_Waves.pdf)).
+- "Transient, global-in-time, convergent iterative coupling of acoustic BEM and elastic FEM", talk at [Waves](https://waves2022.apps.math.cnrs.fr/) (15th International Conference on Mathematical and Numerical Aspects of Wave Propagation), Palaiseau, July 2022 ([Slides](https://github.com/alnssr/alnssr.github.io/raw/main/PDF/Presentation_Waves.pdf)).
 
 In coming conference : 
 
