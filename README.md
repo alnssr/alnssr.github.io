@@ -1,5 +1,4 @@
 
-Welcome to my academic page !
 
 
 I'm a PhD Student in mechanics and numerical simulation at POEMS (UMA, Ensta Paris). I work under the direction of [Stéphanie Chaillat](https://perso.ensta-paris.fr/~chaillat/) and [Marc Bonnet](https://perso.ensta-paris.fr/~mbonnet/). I also collaborate with Bruno Leblé (Naval Group Research), Guillaume Barras (DGA Techniques Navales) and Océane Grosset (DGA Techniques Navales).
