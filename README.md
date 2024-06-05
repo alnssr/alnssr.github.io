@@ -5,25 +5,31 @@ I'm a PhD Student in mechanics and numerical simulation at POEMS (UMA, Ensta Par
 
 PhD topic : I am working on a time-domain iterative coupling between finite element (FEM) and boundary element methods (BEM). The goal is to apply this coupling to fluid-structure interaction problems for the naval industry, such as the action of a far-field underwater explosion on a submarine.
 
+### Publications and preprints
+- ["Solvability results for the transient acoustic scattering by an elastic obstacle"](https://www.sciencedirect.com/science/article/abs/pii/S0022247X24001203), Marc Bonnet, Stéphanie Chaillat, Alice Nassor, in Journal of Mathematical Analysis and Applications.
+- ["Convergence d'un couplage élastique-acoustique FEM-BEM itératif, global en temps"](https://hal.science/hal-03717599/), Alice Nassor, Stéphanie Chaillat, Marc Bonnet, Bruno Leblé, Guillaume Barras. CMSA 2022.
+
+
 
 ### Communications
-- [“A convergent iterative method for global-in-time elastodynamic-acoustic FEM-BEM coupling”](https://seminaruma.github.io/_pages/Previous_seminars.html), talk at the [UMA PhD Seminar](https://seminaruma.github.io/).
-- ["Une méthode itérative convergente pour le couplage FEMBEM élastodynamique-acoustique global en temps"](https://cjc-ma2021.github.io/resumes/resume-alice-nassor.pdf), talk at the Congrès des Jeunes Chercheurs en Mathématiques Appliquées, October 2021
-- ["Convergence d'un couplage élastique-acoustique FEM-BEM itératif, global en temps"](https://hal.archives-ouvertes.fr/hal-03717599/), talk at the at the CSMA 2022 (15ème colloque nationale en calcul des structures), May 2022. 
-- ["Transient, global-in-time, convergent iterative coupling of acoustic BEM and elastic FEM"](https://github.com/alnssr/alnssr.github.io/raw/main/PDF/Abstract_ECCOMAS_2022.pdf), talk at ECCOMAS Congress 2022, Oslo, June 2022. 
+- Plenary session "Prix CSMA-AFM" at the at the CSMA 2024 (16ème colloque nationale en calcul des structures), May 2024.
+- Rencontre Jeunes Chercheuses Jeunes Chercheurs Ondes ([JCJC Ondes](https://jcjc_ondes.pages.math.cnrs.fr/#home)), Inria Université Côte d'Azur, November 2022.
 - "Transient, global-in-time, convergent iterative coupling of acoustic BEM and elastic FEM", talk at [Waves](https://waves2022.apps.math.cnrs.fr/) (15th International Conference on Mathematical and Numerical Aspects of Wave Propagation), Palaiseau, July 2022 ([Slides](https://github.com/alnssr/alnssr.github.io/raw/main/PDF/Presentation_Waves.pdf)).
+-  ["Transient, global-in-time, convergent iterative coupling of acoustic BEM and elastic FEM"](https://github.com/alnssr/alnssr.github.io/raw/main/PDF/Abstract_ECCOMAS_2022.pdf), talk at ECCOMAS Congress 2022, Oslo, June 2022. 
+- ["Convergence d'un couplage élastique-acoustique FEM-BEM itératif, global en temps"](https://hal.archives-ouvertes.fr/hal-03717599/), talk at the at the CSMA 2022 (15ème colloque nationale en calcul des structures), May 2022.
+-  ["Une méthode itérative convergente pour le couplage FEMBEM élastodynamique-acoustique global en temps"](https://cjc-ma2021.github.io/resumes/resume-alice-nassor.pdf), talk at the Congrès des Jeunes Chercheurs en Mathématiques Appliquées, October 2021
+- [“A convergent iterative method for global-in-time elastodynamic-acoustic FEM-BEM coupling”](https://seminaruma.github.io/_pages/Previous_seminars.html), talk at the [UMA PhD Seminar](https://seminaruma.github.io/).
+
+
 
 In coming conference : 
+- I will give a talk during the next ECCOMAS Congress 2024, Lisbon, June 2024. 
 
-- Rencontre Jeunes Chercheuses Jeunes Chercheurs Ondes ([JCJC Ondes](https://jcjc_ondes.pages.math.cnrs.fr/#home)), Inria Université Côte d'Azur, 28-30 novembre 2022.
 
 
 
 ### Teaching
 - [IN101](https://ecampus.paris-saclay.fr/enrol/index.php?id=13880) - Algorithmique et programmation (S1 - 2021-22)
-
-
-
 
 
 
