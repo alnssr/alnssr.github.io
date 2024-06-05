@@ -6,7 +6,7 @@ I'm a PhD Student in mechanics and numerical simulation at POEMS (UMA, Ensta Par
 PhD topic : I am working on a time-domain iterative coupling between finite element (FEM) and boundary element methods (BEM). The goal is to apply this coupling to fluid-structure interaction problems for the naval industry, such as the action of a far-field underwater explosion on a submarine.
 
 ### Publications and preprints
-- ["Solvability results for the transient acoustic scattering by an elastic obstacle"](https://www.sciencedirect.com/science/article/abs/pii/S0022247X24001203), Marc Bonnet, Stéphanie Chaillat, Alice Nassor, in Journal of Mathematical Analysis and Applications.
+- ["Solvability results for the transient acoustic scattering by an elastic obstacle"](https://www.sciencedirect.com/science/article/abs/pii/S0022247X24001203), Marc Bonnet, Stéphanie Chaillat, Alice Nassor, in Journal of Mathematical Analysis and Applications, 2024.
 - ["Convergence d'un couplage élastique-acoustique FEM-BEM itératif, global en temps"](https://hal.science/hal-03717599/), Alice Nassor, Stéphanie Chaillat, Marc Bonnet, Bruno Leblé, Guillaume Barras. CMSA 2022.
 
 
