@@ -13,6 +13,7 @@ PhD topic : I am working on a time-domain iterative coupling between finite elem
 
 ### Communications
 - Plenary session "Prix CSMA-AFM" at the at the CSMA 2024 (16ème colloque nationale en calcul des structures), May 2024.
+- "Interaction between a submarine and a far-field underwater explosion with a transient iterative FEM-BEM coupling", talk at the 10th Conference on Computational Methods in Marine Engineering ([Marine 2023](https://marine2023.cimne.com/objectives)), Madrid, June 2023.
 - Rencontre Jeunes Chercheuses Jeunes Chercheurs Ondes ([JCJC Ondes](https://jcjc_ondes.pages.math.cnrs.fr/#home)), Inria Université Côte d'Azur, November 2022.
 - "Transient, global-in-time, convergent iterative coupling of acoustic BEM and elastic FEM", talk at [Waves](https://waves2022.apps.math.cnrs.fr/) (15th International Conference on Mathematical and Numerical Aspects of Wave Propagation), Palaiseau, July 2022 ([Slides](https://github.com/alnssr/alnssr.github.io/raw/main/PDF/Presentation_Waves.pdf)).
 -  ["Transient, global-in-time, convergent iterative coupling of acoustic BEM and elastic FEM"](https://github.com/alnssr/alnssr.github.io/raw/main/PDF/Abstract_ECCOMAS_2022.pdf), talk at ECCOMAS Congress 2022, Oslo, June 2022. 
