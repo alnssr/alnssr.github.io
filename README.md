@@ -1,9 +1,10 @@
 
 
 
-I'm a PhD Student in mechanics and numerical simulation at POEMS (UMA, Ensta Paris). I work under the direction of [Stéphanie Chaillat](https://perso.ensta-paris.fr/~chaillat/) and [Marc Bonnet](https://perso.ensta-paris.fr/~mbonnet/). I also collaborate with Bruno Leblé (Naval Group Research), Guillaume Barras (DGA Techniques Navales) and Océane Grosset (DGA Techniques Navales).
+I did my PhD in mechanics and numerical simulation at POEMS (UMA, Ensta Paris). I worked under the direction of [Stéphanie Chaillat](https://perso.ensta-paris.fr/~chaillat/) and [Marc Bonnet](https://perso.ensta-paris.fr/~mbonnet/). I also collaborated with Bruno Leblé (Naval Group Research), Guillaume Barras (DGA Techniques Navales) and Océane Grosset (DGA Techniques Navales).
 
-PhD topic : I am working on a time-domain iterative coupling between finite element (FEM) and boundary element methods (BEM). The goal is to apply this coupling to fluid-structure interaction problems for the naval industry, such as the action of a far-field underwater explosion on a submarine.
+PhD topic : I work on a time-domain iterative coupling between finite element (FEM) and boundary element methods (BEM). The goal is to apply this coupling to fluid-structure interaction problems for the naval industry, such as the action of a far-field underwater explosion on a submarine. The manuscript is now available [here](https://theses.hal.science/tel-04529955/) !
+
 
 ### Publications and preprints
 - ["Solvability results for the transient acoustic scattering by an elastic obstacle"](https://www.sciencedirect.com/science/article/abs/pii/S0022247X24001203), Marc Bonnet, Stéphanie Chaillat, Alice Nassor, in Journal of Mathematical Analysis and Applications, 2024.
